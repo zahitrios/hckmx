@@ -1,0 +1,142 @@
+Database: acommx_base                                                                                                                                                                                                                        
+[41 tables]
++---------------+
+| anteriores    |
+| articulo      |
+| articulocat   |
+| articulos     |
+| banners       |
+| bannerswf     |
+| categories    |
+| directorio    |
+| directoriocat |
+| domains       |
+| galeria       |
+| hojas         |
+| keywords      |
+| link_keyword0 |
+| link_keyword1 |
+| link_keyword2 |
+| link_keyword3 |
+| link_keyword4 |
+| link_keyword5 |
+| link_keyword6 |
+| link_keyword7 |
+| link_keyword8 |
+| link_keyword9 |
+| link_keyworda |
+| link_keywordb |
+| link_keywordc |
+| link_keywordd |
+| link_keyworde |
+| link_keywordf |
+| links         |
+| megusta       |
+| megustat      |
+| noticias      |
+| pending       |
+| portada       |
+| portafolio    |
+| site_category |
+| sites         |
+| suscripcion   |
+| talleres      |
+| temp          |
++---------------+
+
+
+Database: acommx_base
+Table: articulo
+[40 entries]
++--------+----------------------------------------------------------------+---------------------------------+
+| activo | contacto                                                       | email                           |
++--------+----------------------------------------------------------------+---------------------------------+
+| 0      | ET                                                             | et98@hotmail.com                |
+| 0      | ET                                                             | et98@hotmail.com                |
+| 0      | Próximamente                                                   | revista@a.com.mx                |
+| 0      | Próximamente                                                   | revista@a.com.mx                |
+| 0      | Test Taller                                                    | et98@hotmail.com                |
+| 0      | adasd                                                          | asda@adsdasd                    |
+| 1      | Mario Flores                                                   | mario@administrarte.com         |
+| 1      | Roberto Carlos “RöC”                                           | roc@kakumen.com                 |
+| 1      | Santiago Osnaya                                                | vosanova_24@hotmail.com         |
+| 0      | leo                                                            | leo@azulgis.com                 |
+| 1      | Marta Chávez                                                   | chavezmarta@gmail.com           |
+| 1      | Leonora Varo                                                   | disenadorafreelancera@gmail.com |
+| 1      | Alma Rodríguez                                                 | alma_rdguez@hotmail.com         |
+| 1      | Adrián Pierini                                                 | info@pierinipartners.com        |
+| 1      | Jesús Gaytán                                                   | jhgaytan@gmail.com              |
+| 0      | a! Diseño                                                      | director@a.com.mx               |
+| 1      | a! Diseño                                                      | director@a.com.mx               |
+| 1      | Josefina Ramírez                                               | pinaramireztuero@hotmail.com    |
+| 1      | Alejandro Louis                                                | alejandro@dimmx.com             |
+| 1      | Verónica Miranda                                               | info@veronicamiranda.com        |
+| 1      | Arturo González                                                | arturogonzalezsalas@hotmail.com |
+| 1      | Fernando Angilella                                             | angilella@me.com                |
+| 1      | Juan Carlos García Pérez                                       | juancarlos@disenodos.com        |
+| 0      | azulgris                                                       | info@azulgris.com               |
+| 0      | azulgris                                                       | leo@azulgris.com                |
+| 0      | Juan Carlos García Pérez                                       | juancarlos@disenodos.com        |
+| 0      | Juan Carlos García Pérez                                       | juancarlos@disenodos.com        |
+| 1      | Juan Carlos García Pérez                                       | juancarlos@disenodos.com        |
+| 1      | Josefina Ramírez Tuero                                         | pinaramireztuero@hotmail.com    |
+| 1      | Annika Maya Rivero                                             | anni_kaaa@hotmail.com           |
+| 1      | Julio Enrique Muñoz del Bosque                                 | munozdelbosque@gmail.com        |
+| 0      | Ronald Shakespear                                              | ronald@shakespearweb.com        |
+| 0      | Julio Enrique Muñoz del Bosque                                 | munozdelbosque@gmail.com        |
+| 1      | Julio Enrique Muñoz del Bosque                                 | munozdelbosque@gmail.com        |
+| 1      | Julio Enrique Muñoz del Bosque                                 | munozdelbosque@gmail.com        |
+| 0      | a! Diseño                                                      | revista@a.com.mx                |
+| 1      | a! Diseño                                                      | infopremio@a.com.mx             |
+| 0      | ssssddd                                                        | <blank>                         |
+| 0      | a! Diseño                                                      | arevistadp@gmail.com            |
+| 1      | MDG. Eréndida Mancilla González y MDG. Manuel Guerrero Salinas | <blank>                         |
++--------+----------------------------------------------------------------+---------------------------------+
+
+
+Database: acommx_base                                                                                                                                                                       
+[41 tables]
++---------------+
+| anteriores    |
+| articulo      |
+| articulocat   |
+| articulos     |
+| banners       |
+| bannerswf     |
+| categories    |
+| directorio    |
+| directoriocat |
+| domains       |
+| galeria       |
+| hojas         |
+| keywords      |
+| link_keyword0 |
+| link_keyword1 |
+| link_keyword2 |
+| link_keyword3 |
+| link_keyword4 |
+| link_keyword5 |
+| link_keyword6 |
+| link_keyword7 |
+| link_keyword8 |
+| link_keyword9 |
+| link_keyworda |
+| link_keywordb |
+| link_keywordc |
+| link_keywordd |
+| link_keyworde |
+| link_keywordf |
+| links         |
+| megusta       |
+| megustat      |
+| noticias      |
+| pending       |
+| portada       |
+| portafolio    |
+| site_category |
+| sites         |
+| suscripcion   |
+| talleres      |
+| temp          |
++---------------+
+

